@@ -9,5 +9,5 @@
     "name":"secondWidget",
        "url":"http://localhost:5002/dist/assets/remoteEntry.js"
    }
-}]
+    ]
 }
