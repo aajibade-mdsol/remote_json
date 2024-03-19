@@ -1,6 +1,12 @@
 {
-    remotes: {
-    "firstWidget": "http://localhost:5001/dist/assets/remoteEntry.js", 
-    "secondWidget": "http://localhost:5002/dist/assets/remoteEntry.js"
-}
+    remotes: [
+        {
+    "name": "firstWidget",
+    "url": http://localhost:5001/dist/assets/remoteEntry.js"
+    } ,
+        
+   { 
+    "name":"secondWidget",
+       "url":"http://localhost:5002/dist/assets/remoteEntry.js"}
+}]
 }
