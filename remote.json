@@ -3,7 +3,11 @@
         {
     "name": "./FirstWidget",
     "url": "http://localhost:5001/dist/assets/remoteEntry.js"
-    } 
+    }, 
+        { 
+  "name":"./SecondWidget",
+     "url":"http://localhost:5002/dist/assets/remoteEntry.js"
+ }
         
   
     ]
