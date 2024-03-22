@@ -6,12 +6,7 @@
             "globalVar" : "first",
             "exposedModule": "Component"
     }, 
-        { 
-  "name":"./SecondWidget",
-     "url":"http://localhost:5002/dist/assets/remoteEntry.js",
-        "globalVar" : "second",
-            "exposedModule": "Component"
- }
+        
         
   
     ]
