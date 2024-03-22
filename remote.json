@@ -1,10 +1,11 @@
 {
     "remotes": [
-        {
-    "name": "./FirstWidget",
-    "url": "http://localhost:5001/dist/assets/remoteEntry.js",
-            "globalVar" : "first",
+    
+        { 
+  "name":"./SecondWidget",
+     "url":"http://localhost:5002/dist/assets/remoteEntry.js",
+        "globalVar" : "second",
             "exposedModule": "Component"
-    }
+ }
     ]
 }
